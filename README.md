@@ -1,33 +1,33 @@
-ProductApı-WebService
+ProductAPI-WebService
 
 📌 Proje Özeti
+Bu proje, temel ürün yönetimi işlemlerini gerçekleştiren bir RESTful API’dir.
+Kullanıcılar API üzerinden ürünleri listeleyebilir, belirli bir ürünü görüntüleyebilir ve iş kurallarına uygun şekilde ürün verilerini yönetebilir.
 
-Bu proje, basit bir ürün yönetimi API’si sağlar.  
-Kullanıcılar ürünleri listeleyebilir, belirli ürünü görebilir ve iş kurallarına göre filtreleme yapabilirler.
+🎯 Amaç / Problem
+Bir ürün servisinde aşağıdaki temel ihtiyaçlar bulunmaktadır:
+Ürünlerin listelenebilmesi.
+Ürün detaylarının görüntülenebilmesi.
+İş kurallarına uygun veri yönetimi.
+Bu ihtiyaçlara cevap verebilecek sade ve sürdürülebilir bir backend servisine ihtiyaç duyulmuştur.
 
-🎯 Problem
-
-Bir ürün servisinin temel REST API özellikleriyle sunulması ihtiyacı vardı:
-- Ürünlerin listelenmesi
-- Ürün detaylarının alınması
-- Basit iş kurallarının uygulanması
-
- 💡 Çözüm
-
-ASP.NET Core Web API kullanılarak:
-- Controller, Service ve Model yapısı ayrıştırıldı
-- Bağımlılıklar interface kullanılarak soyutlandı
-- Temiz ve sürdürülebilir mimari tasarlandı
+💡 Çözüm Yaklaşımı
+Bu ihtiyaçlar doğrultusunda ASP.NET Core Web API kullanılarak:
+Controller, Service ve Model katmanları birbirinden ayrıştırıldı.
+Bağımlılıklar interface’ler aracılığıyla soyutlandı.
+Temiz, okunabilir ve sürdürülebilir bir mimari yapı kuruldu.
 
 🛠️ Kullanılan Teknolojiler
-
-- C#  
-- ASP.NET Core  
-- .NET 10.0.101 
+C#
+ASP.NET Core Web API
+.NET(Core)10.0.101
 
 📌 Nasıl Çalışır
-
 1. Repo’yu klonla  
 2. `dotnet restore`  
 3. `dotnet run`  
 4. REST endpoint’leri test et (ör. GET /api/products)
+
+📌 Geliştirme Durumu
+Proje aktif olarak geliştirilmektedir.  
+İlerleyen aşamalarda veritabanı entegrasyonu, ek endpoint’ler ve iş kurallarının genişletilmesi hedeflenmektedir.
