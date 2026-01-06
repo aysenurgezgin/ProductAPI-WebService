@@ -23,7 +23,7 @@ ASP.NET Core Web API kullanılarak:
 
 - C#  
 - ASP.NET Core  
-- .NET 10.0.101 (veya senin sürümün)
+- .NET 10.0.101 
 
 📌 Nasıl Çalışır
 
