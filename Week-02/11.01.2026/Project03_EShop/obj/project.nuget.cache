@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ak7PYMPwYag=",
+  "dgSpecHash": "TnFPPP8t8eY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ayse.DESKTOP-RM3G25C\\Documents\\GitHub\\ASP.NET-Core-Web-API-Development\\Week-01\\01.01.2026\\Project03_EShop\\Project03_EShop.csproj",
+  "projectFilePath": "C:\\Users\\Ayse.DESKTOP-RM3G25C\\Documents\\GitHub\\ASP.NET-Core-Web-API-Development\\Week-02\\11.01.2026\\Project03_EShop\\Project03_EShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
     "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"

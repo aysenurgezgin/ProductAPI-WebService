@@ -1,0 +1,9 @@
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-02\11.01.2026\Project03_EShop\obj\Debug\net10.0\Project03_EShop.csproj.AssemblyReference.cache
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-02\11.01.2026\Project03_EShop\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-02\11.01.2026\Project03_EShop\obj\Debug\net10.0\Project03_EShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-02\11.01.2026\Project03_EShop\obj\Debug\net10.0\Project03_EShop.AssemblyInfoInputs.cache
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-02\11.01.2026\Project03_EShop\obj\Debug\net10.0\Project03_EShop.AssemblyInfo.cs
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-02\11.01.2026\Project03_EShop\obj\Debug\net10.0\Project03_EShop.csproj.CoreCompileInputs.cache
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-02\11.01.2026\Project03_EShop\obj\Debug\net10.0\Project03_EShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-02\11.01.2026\Project03_EShop\obj\Debug\net10.0\Project03_EShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-02\11.01.2026\Project03_EShop\obj\Debug\net10.0\Project03_EShop.sourcelink.json
